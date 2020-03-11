@@ -32,27 +32,27 @@ This course will be taught by using projects, goals and games that will require 
 
 ## Online Resources
 
-*https://overthewire.org/
+* https://overthewire.org/
 
-*https://www.webminal.org/
+* https://www.webminal.org/
 
-*https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/ 
+* https://training.linuxfoundation.org/resources/free-courses/introduction-to-linux/ 
 
-*https://pctc.cyberforce.site/lms/courses/135/linux-operating-system-security
+* https://pctc.cyberforce.site/lms/courses/135/linux-operating-system-security
 
-*http://www.linuxfromscratch.org/
+* http://www.linuxfromscratch.org/
 
-*https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source
+* https://www.linuxjournal.com/content/diy-build-custom-minimal-linux-distribution-source
 
-*https://courses.linuxtrainingacademy.com/course/high-availability-lamp/
+* https://courses.linuxtrainingacademy.com/course/high-availability-lamp/
 
-*Github.com 
+* Github.com 
 
-*https://opensourceforu.com/2019/04/the-top-open-source-hypervisor-technologies/
+* https://opensourceforu.com/2019/04/the-top-open-source-hypervisor-technologies/
 
-*https://xenproject.org/
+* https://xenproject.org/
 
-*https://xcp-ng.org/ 
+* https://xcp-ng.org/ 
 
 ## Part 2: Topics Outline
 

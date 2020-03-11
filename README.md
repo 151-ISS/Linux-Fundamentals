@@ -21,13 +21,13 @@ This course will be taught by using projects, goals and games that will require 
 
 * User account on the Lab network, with administrative privileges.
 * Github account
-* **Script & file repositories
+    * Script & file repositories
 * Discord software installed 
-* **Server: TBD
-* **Ensure your mic/camera are functional
+    * Server: TBD
+    * Ensure your mic/camera are functional
 * Google apps: 
-* **Hangouts for video chat/screen sharing - Backup
-* **Calendar for scheduling – connected to Discord
+    * Hangouts for video chat/screen sharing - Backup
+    * Calendar for scheduling – connected to Discord
 
 
 ## Online Resources

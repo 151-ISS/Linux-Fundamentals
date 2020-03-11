@@ -7,7 +7,7 @@
 * **Need help?**
     * [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/advanced-js/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
         * It sends message digests to people who aren't active in the room, so feel free to ask a question even if no one's around.
-    * Look through and create [issues](https://github.com/advanced-js/syllabus/issues)
+    * Look through and create [issues](hhttps://github.com/151-ISS/Linux-Fundamentals/issues)
 ## Part 1: Course Information
 ## Course Description
 

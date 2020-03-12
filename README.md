@@ -107,27 +107,27 @@ This topic will introduce students to the security features and tools available 
 *Audit configuration
 * **Audit storage & reviews**
 * **Create and Manage Users**
-* FreeIPA*
-* LDAP*
-*STIG fundamentals and application*
-*Monitoring: *
-* **Cacti**
-* **Icinga**
-* **Monit**
-* **Munin**
-* **Nagios****
-* **OpenNMS**
-* **Zabbix**
-* **Zenoss**
-*Syslog Server:*
-*ELK Stack: Elasticsearch, Logstash & Kibana*
-* **Fluentd**
-* **Logstash**
-* **Splunk**
-* **syslog-ng**
-*Configure a firewall*
-* **IPtables**
-* **UFW**
+   * FreeIPA
+   * LDAP
+* **STIG fundamentals and application**
+* **Monitoring:**
+   * Cacti
+   * Icinga
+   * Monit
+   * Munin
+   * Nagios
+   * OpenNMS
+   * Zabbix
+   * Zenoss
+* **Syslog Server:**
+* **ELK Stack: Elasticsearch, Logstash & Kibana**
+   * Fluentd
+   * Logstash
+   * Splunk
+   * syslog-ng
+* **Configure a firewall**
+   * IPtables
+   * UFW
 
 ### Linux System Engineering
 

@@ -107,10 +107,10 @@ This topic will introduce students to the security features and tools available 
 *Audit configuration
 * **Audit storage & reviews**
 * **Create and Manage Users**
-*FreeIPA*
-*LDAP*
-STIG fundamentals and application
-Monitoring: 
+* FreeIPA*
+* LDAP*
+*STIG fundamentals and application*
+*Monitoring: *
 * **Cacti**
 * **Icinga**
 * **Monit**
@@ -119,13 +119,13 @@ Monitoring:
 * **OpenNMS**
 * **Zabbix**
 * **Zenoss**
-Syslog Server:
-ELK Stack: Elasticsearch, Logstash & Kibana
+*Syslog Server:*
+*ELK Stack: Elasticsearch, Logstash & Kibana*
 * **Fluentd**
 * **Logstash**
 * **Splunk**
 * **syslog-ng**
-Configure a firewall
+*Configure a firewall*
 * **IPtables**
 * **UFW**
 

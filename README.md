@@ -92,43 +92,42 @@ Most people who know about Git think of it as a repository for software projects
 In addition to source code, a Git repository can hold configuration files, scripts, and text documentation.
 ***Intro to Git***
 
-   ***Benefits to SysAdmins***
+* **Benefits to SysAdmins***
 
-   ***Types of repositories***
+* **Types of repositories***
 
-   ***Types of clients***
+* **Types of clients***
 
-   ***Setting up a repo***
+* **Setting up a repo***
 
 
 ### Linux Operating System Security
 
 This topic will introduce students to the security features and tools available in Linux as well as the considerations, advantages, and disadvantages of using those features. The class will be based on Red Hat Linux and is designed for IT and security managers, and system administrators who want to increase their knowledge on configuring and hardening Linux from a security perspective.
 *Audit configuration
-**Audit storage & reviews
-**Create and Manage Users
-*FreeIPA
+* **Audit storage & reviews
+* **Create and Manage Users
+*FreeIPA*
 *LDAP
-NIS
 STIG fundamentals and application
 Monitoring: 
-*Cacti
-*Icinga
-*Monit
-*Munin
-*Nagios
-*OpenNMS
-*Zabbix
-*Zenoss
+* **Cacti
+* **Icinga
+* **Monit
+* **Munin
+* **Nagios
+* **OpenNMS
+* **Zabbix
+* **Zenoss
 Syslog Server:
 ELK Stack: Elasticsearch, Logstash & Kibana
-*Fluentd
-*Logstash
-*Splunk
-*syslog-ng
+* **Fluentd
+* **Logstash
+* **Splunk
+* **syslog-ng
 Configure a firewall
-*IPtables
-*UFW
+* **IPtables
+* **UFW
 
 ### Linux System Engineering
 

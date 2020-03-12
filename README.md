@@ -56,22 +56,33 @@ This course will be taught by using projects, goals and games that will require 
 
 ## Part 2: Topics Outline
 
-###Fundamentals 
+### Fundamentals 
 SSH basics – to accomplish this block, the students will need a basic understanding of SSH
 We are operating in a windows environment, so discuss the various options of accomplishing an SSH session. 
-***Linux Bash Shell (preferred)
-***Putty
-***Live Linux distro CD
-***Live Linux distro USB
+
+***Linux Bash Shell (preferred)***
+
+***Putty***
+
+***Live Linux distro CD***
+
+***Live Linux distro USB***
+
 Students will use the https://overthewire.org/ website to learn common commands and navigating the Linux file structure.  
 These games will also provide an introduction to Linux vulnerabilities by using basic exploitation techniques to move through the tasks.  These techniques will be built upon later in the course.  
 Order of games:
-*Bandit
-*Leviathan
-*Narnia
-*Behemoth
-*Utumno
-*Maze
+*Bandit***
+
+*Leviathan***
+
+*Narnia***
+
+*Behemoth***
+
+*Utumno***
+
+*Maze***
+
 
 ### Github – Git for SysAdmins
 

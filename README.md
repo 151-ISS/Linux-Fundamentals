@@ -71,17 +71,18 @@ We are operating in a windows environment, so discuss the various options of acc
 Students will use the https://overthewire.org/ website to learn common commands and navigating the Linux file structure.  
 These games will also provide an introduction to Linux vulnerabilities by using basic exploitation techniques to move through the tasks.  These techniques will be built upon later in the course.  
 Order of games:
-*Bandit***
 
-*Leviathan***
+***Bandit***
 
-*Narnia***
+***Leviathan***
 
-*Behemoth***
+***Narnia***
 
-*Utumno***
+***Behemoth***
 
-*Maze***
+***Utumno***
+
+***Maze***
 
 
 ### Github – Git for SysAdmins
@@ -89,11 +90,16 @@ Order of games:
 Here we’ll be discussing how Github/Gitlabs is not just for software development, but can be used for SysAdmins as well.
 Most people who know about Git think of it as a repository for software projects. It’s actually more than that. It’s valuable with any kind of files, especially text files, that get periodic updates. Git is a valuable resource not just for programmers, but for system administrators.
 In addition to source code, a Git repository can hold configuration files, scripts, and text documentation.
-*Intro to Git
-*Benefits to SysAdmins
-*Types of repositories
-*Types of clients
-*Setting up a repo 
+***Intro to Git***
+
+   ***Benefits to SysAdmins***
+
+   ***Types of repositories***
+
+   ***Types of clients***
+
+   ***Setting up a repo***
+
 
 ### Linux Operating System Security
 

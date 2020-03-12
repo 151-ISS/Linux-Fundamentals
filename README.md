@@ -106,7 +106,7 @@ In addition to source code, a Git repository can hold configuration files, scrip
 This topic will introduce students to the security features and tools available in Linux as well as the considerations, advantages, and disadvantages of using those features. The class will be based on Red Hat Linux and is designed for IT and security managers, and system administrators who want to increase their knowledge on configuring and hardening Linux from a security perspective.
 *Audit configuration
 * **Audit storage & reviews**
-* **Create and Manage Users
+* **Create and Manage Users**
 *FreeIPA*
 *LDAP*
 STIG fundamentals and application

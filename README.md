@@ -46,7 +46,7 @@ This course will be taught by using projects, goals and games that will require 
 
 * https://courses.linuxtrainingacademy.com/course/high-availability-lamp/
 
-* Github.com 
+* https://Github.com 
 
 * https://opensourceforu.com/2019/04/the-top-open-source-hypervisor-technologies/
 

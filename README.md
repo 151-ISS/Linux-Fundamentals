@@ -133,45 +133,45 @@ This topic will introduce students to the security features and tools available 
 
 Build a Custom Minimal Linux Distribution from Source
 Building a custom distro teaches you about all that makes Linux tick, how things work together and depend upon each other. And most importantly, how to customize it to your own tastes and needs.
-Hypervisors
-*Xen Project
-**https://youtu.be/bG5enpij0e8 
-*Linux KVM
-*VMware
-*Xvisor
-*Virtualbox
-*NAS
-**https://www.freenas.org/ 
-Configure the LAMP stack
-*Linux
-*Apache
-*MySQL
-*PHP
-Configure Common Services – Client AND Server
-*Cron
-*CUPS
-*DHCP
-*DNS
-*Email (SMTP, POP, IMAP)
-*LDAP
-*NFS
-*NIS
-*NTP
-*SSH
-System Automation:
-*Ansible
-*Chef
-*MakeFiles and/or RakeFiles
-*Puppet
-*Salt Stack
-*Write Shell Scripts
+* **Hypervisors**
+   * Xen Project
+   * https://youtu.be/bG5enpij0e8 
+   * Linux KVM
+   * VMware
+   * Xvisor
+   * Virtualbox
+   * NAS
+**https://www.freenas.org/ **
+* **Configure the LAMP stack
+   * Linux
+   * Apache
+   * MySQL
+   * PHP
+* **Configure Common Services – Client AND Server**
+   * Cron
+   * CUPS
+   * DHCP
+   * DNS
+   * Email (SMTP, POP, IMAP)
+   * LDAP
+   * NFS
+   * NIS
+   * NTP
+   * SSH
+* **System Automation:**
+   * Ansible
+   * Chef
+   * MakeFiles and/or RakeFiles
+   * Puppet
+   * Salt Stack
+   * Write Shell Scripts
 #### Mission Essentials
-*Kickstarter
-*ELK stack
-*Puppet
-*Docker
+   * Kickstarter
+   * ELK stack
+   * Puppet
+   * Docker
 
-## Course Outline
+
 
 
  

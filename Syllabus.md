@@ -54,6 +54,8 @@ This course will be taught by using projects, goals and games that will require 
 
 * https://xcp-ng.org/ 
 
+* http://www.steves-internet-guide.com/internet-protocol-suite-explained/
+
 ## Part 2: Topics Outline
 
 ### Fundamentals 
